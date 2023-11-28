@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumer/consumer.iml" filepath="$PROJECT_DIR$/consumer/consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaWebClient.iml" filepath="$PROJECT_DIR$/javaWebClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/precos/precos.iml" filepath="$PROJECT_DIR$/precos/precos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/produtos/produtos.iml" filepath="$PROJECT_DIR$/produtos/produtos.iml" />
     </modules>
   </component>
 </project>
